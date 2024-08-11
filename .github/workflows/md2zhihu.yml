@@ -12,5 +12,5 @@ jobs:
       with:
         pattern: >
             _posts/*.md
-
+        asset_repo: https://WangwzZB:714196dea941e196d43654b4246731fa@gitee.com/wangwzzb/openpictures.git
 
