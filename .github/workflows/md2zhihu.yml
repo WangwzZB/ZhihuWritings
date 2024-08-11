@@ -14,5 +14,6 @@ jobs:
             _posts/*.md
             _posts/*.markdown
 
-        asset_repo: https://${{ secrets.GITEE_PUSH_DRDRXP_REPO }}@gitee.com/drdrxp/bed.git
+        asset_repo: https://WangwzZB:714196dea941e196d43654b4246731fa@gitee.com/wangwzzb/openpictures.git
+
 
