@@ -8,7 +8,7 @@ jobs:
     - uses: drmingdrmer/md2zhihu@main
       env:
         GITHUB_USERNAME: ${{ github.repository_owner }}
-        GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         pattern: >
             _posts/*.md
